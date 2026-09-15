@@ -1,0 +1,22 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(536,5): warning MSB8004: o diretório Intermediate não termina com uma barra à direita. Essa instância de compilação adicionará a barra conforme necessário para permitir a avaliação adequada do Diretório Intermediate.
+C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(537,5): warning MSB8004: o diretório Output não termina com uma barra à direita. Essa instância de compilação adicionará a barra conforme necessário para permitir a avaliação adequada do Diretório Output.
+  main.cpp
+C:\Users\liels\Downloads\CARRERA BLOODSTRIKE EXTERNAL\external\main.cpp(11,9): warning C4005: 'IMGUI_DEFINE_MATH_OPERATORS': redefinição de macro
+      C:\Users\liels\Downloads\CARRERA BLOODSTRIKE EXTERNAL\external\main.cpp(11,9):
+      'IMGUI_DEFINE_MATH_OPERATORS' declarado anteriormente na linha de comando
+  
+C:\Users\liels\Downloads\CARRERA BLOODSTRIKE EXTERNAL\external\main.cpp(522,14): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+C:\Users\liels\Downloads\CARRERA BLOODSTRIKE EXTERNAL\junior\imgui_settings.h(5,9): warning C4005: 'IMGUI_DEFINE_MATH_OPERATORS': redefinição de macro
+  (compilando o arquivo fonte 'junior/imgui_widgets.cpp')
+      C:\Users\liels\Downloads\CARRERA BLOODSTRIKE EXTERNAL\junior\imgui_settings.h(5,9):
+      'IMGUI_DEFINE_MATH_OPERATORS' declarado anteriormente na linha de comando
+  
+C:\Users\liels\Downloads\CARRERA BLOODSTRIKE EXTERNAL\junior\imgui_widgets.cpp(3487,21): warning C4244: 'inicializando': conversão de 'unsigned int' para 'float', possível perda de dados
+  imgui_tables.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  Gerando Código...
+  external.vcxproj -> C:\Users\liels\Downloads\CARRERA BLOODSTRIKE EXTERNAL\exe\carreraX External.exe

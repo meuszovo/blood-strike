@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\junior\\build log\\imgui_impl_win32.obj",
+            "outputs": [
+                ".\\junior\\build log\\imgui_impl_win32.cpp.obj.dt.module.json",
+                ".\\junior\\build log\\imgui_impl_win32.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
